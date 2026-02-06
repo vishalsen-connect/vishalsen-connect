@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vishal Sen</h1>
-<h3 align="center">🚀 DevOps Engineer | ☁️ Cloud Architect | 🤖 AI & Automation Enthusiast</h3>
+
+<h3 align="center">
+🚀 Platform Engineer | ☁️ Multi-Cloud Architect | 🤖 AI-Driven DevOps & Automation Specialist
+</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vishalsen-connect&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
@@ -7,13 +10,35 @@
 
 ---
 
+## 🧭 Quick Navigation
+- 👨‍💻 About Me
+- ☁️ Cloud & DevOps Expertise
+- 🤖 AI & MLOps Focus
+- 🚀 Featured Projects
+- 📊 GitHub Analytics
+- 🌐 Connect With Me
+
+---
+
 ## 👨‍💻 About Me
 
-🔹 DevOps Engineer with **7+ years of experience**  
-🔹 Expertise in **Multi-Cloud Infrastructure & Automation**  
-🔹 Passionate about **AI-driven DevOps & Intelligent CI/CD**  
-🔹 Strong background in **Kubernetes, Terraform & Cloud Architecture**  
-🔹 Currently exploring **MLOps, AIOps & Agentic AI Automation**
+🚀 DevOps & Platform Engineer with **7+ years of experience** designing and operating **enterprise-grade cloud infrastructure**
+
+🏗️ Specialized in building:
+
+✔ Highly available Kubernetes Platforms  
+✔ Automated CI/CD & GitOps Workflows  
+✔ Multi-Cloud Landing Zones  
+✔ AI / ML Deployment Infrastructure  
+✔ Observability & Self-Healing Systems  
+
+🎯 Career Focus:
+- AI-Driven DevOps (AIOps)
+- Agentic Automation Systems
+- MLOps & LLMOps Infrastructure
+- Intelligent Monitoring & Predictive Reliability
+
+💡 I enjoy transforming **manual operations into intelligent automated platforms**
 
 ---
 
@@ -38,18 +63,16 @@
 
 ---
 
-## ⚙️ CI/CD & DevOps Tools
+## ⚙️ CI/CD & GitOps
 
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-FC6E20?style=for-the-badge&logo=argocd&logoColor=white)
-![AWS CodePipeline](https://img.shields.io/badge/AWS_CodePipeline-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Bitbucket Pipelines](https://img.shields.io/badge/Bitbucket_Pipelines-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
 
 ---
 
-## 🛠 Infrastructure as Code (IaC)
+## 🛠 Infrastructure as Code & Automation
 
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Terragrunt](https://img.shields.io/badge/Terragrunt-5A32A3?style=for-the-badge&logo=terraform&logoColor=white)
@@ -58,71 +81,48 @@
 
 ---
 
-## 📈 Monitoring & Logging
+## 📈 Observability & Reliability Engineering
 
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure Monitor](https://img.shields.io/badge/Azure_Monitor-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![ELK Stack](https://img.shields.io/badge/ELK-005571?style=for-the-badge&logo=elastic&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-F3F3F3?style=for-the-badge&logo=splunk&logoColor=black)
-![Zabbix](https://img.shields.io/badge/Zabbix-1C4595?style=for-the-badge&logo=zabbix&logoColor=white)
-![Nagios](https://img.shields.io/badge/Nagios-2F9B5D?style=for-the-badge&logo=nagios&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
 
-## 💻 Scripting & Programming
+## 🤖 AI / MLOps / AIOps Focus
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white)
-
----
-
-## 🔒 Security & Compliance
-
-![CyberArk](https://img.shields.io/badge/CyberArk-002F6C?style=for-the-badge)
-![SailPoint](https://img.shields.io/badge/SailPoint-0078D4?style=for-the-badge)
-![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
-![Fossology](https://img.shields.io/badge/Fossology-FF6600?style=for-the-badge)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![HIPAA/GDPR](https://img.shields.io/badge/HIPAA/GDPR-4B4B4B?style=for-the-badge)
-
----
-
-## 📊 Data & Analytics / AIML
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F61?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![AWS Glue](https://img.shields.io/badge/AWS_Glue-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
----
-
-## 🤖 AI & ML Interests
-
-![AI](https://img.shields.io/badge/AI-FF6F61?style=for-the-badge&logo=ai&logoColor=white)
-![ML](https://img.shields.io/badge/ML-4B8BBE?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-✔ AI Monitoring & Agentic AI  
-✔ MLOps & LLMOps  
-✔ Intelligent CI/CD Automation  
-✔ Self-Healing Infrastructure  
+✔ AI-Driven Monitoring & Anomaly Detection  
+✔ Agentic DevOps Automation  
+✔ ML Pipeline Deployment & Scaling  
+✔ Intelligent CI/CD Optimization  
+✔ Predictive Infrastructure Reliability  
 
 ---
 
 ## 🚀 Featured Projects
 
-🔹 Kubernetes Automated Cluster Lab  
-🔹 Terraform Multi-Cloud Modules  
-🔹 AI-Powered DevOps Monitoring  
-🔹 Agentic DevOps Automation Bot  
-🔹 CI/CD Pipeline Templates  
+⭐ Kubernetes Automated Cluster Platform  
+⭐ Multi-Cloud Terraform Landing Zone  
+⭐ AI-Powered Observability Platform  
+⭐ Agentic DevOps Automation Bot  
+⭐ Enterprise CI/CD Template Framework  
+
+👉 Full Portfolio: **(Add Portfolio Repo Link Here)**
+
+---
+
+## 🧠 DevOps Philosophy
+
+> "Automation is not just about speed — it's about building intelligent, resilient, and self-healing systems."
+
+I focus on:
+
+- Platform Engineering Mindset  
+- Infrastructure as Product  
+- GitOps & Declarative Systems  
+- Reliability & Scalability First  
+- AI-Augmented Operations  
 
 ---
 
@@ -132,22 +132,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=vishalsen-connect&show_icons=true&theme=tokyonight"/>
 </p>
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=vishalsen-connect&theme=tokyonight"/>
-</p>
-
 ## 💻 Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalsen-connect&layout=compact&theme=tokyonight"/>
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vishalsen-connect&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
 </p>
 
 ---
@@ -155,10 +143,10 @@
 ## 🌐 Connect With Me
 
 📧 Email: vishalsen.connect@gmail.com  
-💼 LinkedIn: https://linkedin.com/in/YOUR-LINK  
+💼 LinkedIn: https://linkedin.com/in/vishalsen-connect  
 
 ---
 
 <p align="center">
-⭐ "Automating Today, Building Intelligent Infrastructure for Tomorrow"
+⭐ Automating Today | Building Intelligent Infrastructure for Tomorrow ⭐
 </p>
