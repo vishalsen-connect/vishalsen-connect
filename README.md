@@ -169,10 +169,40 @@ I focus on:
 
 ---
 -->
+
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats-fork.vercel.app/api?username=vishalsen-connect&show_icons=true&theme=tokyonight&border_color=DD2BC7&include_all_commits=true&bg_color=45,050608,1A1B27&show=prs_merged,reviews&line_height=24" 
+         width="48.125%" alt="My GitHub Stats were once here..." 
+  /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats-fork.vercel.app/api?username=vishalsen-connect&show_icons=true&theme=buefy&border_color=DD2BC7" 
+         width="49%" alt="My GitHub Stats were once here..." 
+  /></a>
+  <!-- Github Streak -->
+  <a href="https://git.io/streak-stats#gh-dark-mode-only" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-streak-stats-fork.vercel.app?user=vishalsen-connect&theme=tokyonight&card_width=490&fire=EBEBEB&background=45%2C1A1B27%2C050608&stroke=4ACBEB&border=DD2BC7&mode=weekly" 
+         width="49%" alt="My GitHub Streak was once here..." 
+  /></a>
+    <a href="https://git.io/streak-stats#gh-light-mode-only" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-streak-stats-fork.vercel.app/?user=vishalsen-connect&theme=buefy&mode=weekly&border=DD2BC7" 
+         width="49%" alt="My GitHub Streak was once here..." 
+  /></a>
+
+  <a href="https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake.svg#gh-dark-mode-only" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake-dark.svg" 
+       alt="Check out my commit history!" 
+  /></a>
+  
+  <a href="https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake.svg#gh-light-mode-only" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake.svg" 
+         alt="Check out my commit history!" 
+  /></a>
+</p>
+
+---
 ## 🌐 Connect With Me
 <a href="https://www.linkedin.com/in/vishalsen-connect/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 <a href="vishalsen.connect@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
-
 ---
 
 <p align="center">
