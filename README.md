@@ -1,40 +1,45 @@
-<h1 align="center">
-  Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">, I'm Vishal Sen
-</h1>
 
+
+
+
+
+
+
+<!-- ===================================================== -->
+<!-- 🚀 PREMIUM HERO SECTION -->
+<!-- ===================================================== -->
+
+<!-- ==================== HEADER ==================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Platform+Engineering+Expert;Multi-Cloud+Infrastructure+Automation;Kubernetes+%7C+Terraform+%7C+GitOps;AI+Driven+DevOps+Innovation" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0e0e0,100:f8f8f8,200:ffffff&height=190&section=header&text=💼%20Vishal%20Sen&fontSize=50&fontColor=1a1a1a&animation=waving&fontAlignY=38"/>
 </p>
 
+<!-- <h1 align="center">Hi 👋, I'm Vishal Sen</h1> -->
 
-## 🧭 Quick Navigation
-- 👨‍💻 About Me
-- ☁️ Cloud & DevOps Expertise
-- 🤖 AI & MLOps Focus
-- 🚀 Featured Projects<!--- 📊 GitHub Analytics -->
-- 🌐 Connect With Me
+<h3 align="center">🚀 Platform Engineer | ☁️ DevOps Architect | 🤖 AI-Driven Automation Specialist</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+Autonomous+Cloud+Platforms;AI+Driven+DevOps+%26+AIOps+Engineering;Cloud+Security+%26+Zero+Trust+Architecture;Platform+Engineering+at+Scale;Infrastructure+as+Code+%26+GitOps+Expert" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=vishalsen-connect&label=Profile+Views&color=00C2FF&style=for-the-badge" />
+</p>
 
 ---
 
-## 👨‍💻 About Me
+# 🧭 Engineering Identity
 
-🚀 DevOps & Platform Engineer with **7+ years of experience** designing and operating **enterprise-grade cloud infrastructure**
-
-🏗️ Specialized in building:
-
-✔ Highly available Kubernetes Platforms  
-✔ Automated CI/CD & GitOps Workflows  
-✔ Multi-Cloud Landing Zones  
-✔ AI / ML Deployment Infrastructure  
-✔ Observability & Self-Healing Systems  
-
-🎯 Career Focus:
-- AI-Driven DevOps (AIOps)
-- Agentic Automation Systems
-- MLOps & LLMOps Infrastructure
-- Intelligent Monitoring & Predictive Reliability
-
-💡 I enjoy transforming **manual operations into intelligent automated platforms**
+```yaml
+Role: Platform Engineer / DevOps Architect
+Experience: 7+ Years
+Focus:
+  - AI Driven Infrastructure
+  - Multi Cloud Platform Engineering
+  - Kubernetes Platform Architecture
+  - DevSecOps & Zero Trust
+  - AIOps & Autonomous Systems
+```
 
 ---
 
@@ -187,99 +192,115 @@
 
 ---
 
-## 🤖 AI / MLOps / AIOps Focus
+# 🤖 AI + Autonomous DevOps Capabilities
 
-✔ AI-Driven Monitoring & Anomaly Detection  
-✔ Agentic DevOps Automation  
-✔ ML Pipeline Deployment & Scaling  
-✔ Intelligent CI/CD Optimization  
-✔ Predictive Infrastructure Reliability  
-
----
-
-## 🚀 Featured Projects
-
-⭐ Kubernetes Automated Cluster Platform  
-⭐ Multi-Cloud Terraform Landing Zone  
-⭐ AI-Powered Observability Platform  
-⭐ Agentic DevOps Automation Bot  
-⭐ Enterprise CI/CD Template Framework  
-
-👉 Full Portfolio: **(Add Portfolio Repo Link Here)**
+✔ Agentic CI/CD Pipelines  
+✔ AI Alert Correlation  
+✔ Predictive Scaling Platforms  
+✔ Intelligent Rollback Systems  
+✔ AI Infrastructure Observability  
+✔ LLM Deployment Infrastructure  
 
 ---
 
-## 🧠 Engineering Philosophy
-
-> Automating Platforms • Scaling Infrastructure • Enabling AI-Driven DevOps
-
-
-I focus on:
-
-- Platform Engineering Mindset  
-- Infrastructure as Product  
-- GitOps & Declarative Systems  
-- Reliability & Scalability First  
-- AI-Augmented Operations  
+# 🏗 Featured Engineering Platforms
 
 ---
 
-<!---
-## 📊 GitHub Stats
+## 🔥 Autonomous Kubernetes Platform
+
+👉 Enterprise Ready Internal Developer Platform
+
+Features:
+
+- Multi Cluster GitOps
+- Self Healing Infrastructure
+- Policy as Code
+- Automated Security Scanning
+- AI Observability Layer
+
+---
+
+## 🌐 Multi Cloud Landing Zone Framework
+
+Features:
+
+- Terraform Modular Architecture
+- Governance Guardrails
+- Automated Networking Baseline
+- Security Compliance Framework
+- Environment Promotion Pipelines
+
+---
+
+## 🤖 AI Observability Engine
+
+Features:
+
+- Predictive Incident Detection
+- ML Log Pattern Analysis
+- Automated Root Cause Analysis
+- Alert Noise Reduction
+- Self Healing Remediation
+
+---
+
+# 🚀 Current Engineering Research
+
+- AI Native DevOps Platforms  
+- LLMOps Infrastructure Patterns  
+- Self Healing Kubernetes  
+- Agentic Monitoring Systems  
+- Platform Engineering Golden Paths  
+
+---
+
+# 🧬 Technology Philosophy
+
+> Automate Everything  
+> Secure Everything  
+> Observe Everything  
+> Scale Everything  
+
+---
+
+<!-- ==================== GITHUB STATS ==================== -->
+<p align="center">
+  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vishalsen-connect&show_icons=true&theme=dark&hide_border=true&bg_color=1a1a1a&title_color=ffffff&icon_color=dcdcdc"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=vishalsen-connect&theme=dark&hide_border=true&background=1a1a1a&stroke=ffffff&fire=dcdcdc&currStreakNum=ffffff"/>
+</p>
+
+<!-- ==================== ACTIVITY GRAPH ==================== -->
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishalsen-connect&bg_color=1a1a1a&color=ffffff&line=dcdcdc&point=ffffff&hide_border=true"/>
+</p>
+
+<!-- ==================== SNAKE ANIMATION ==================== -->
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg?stroke=ffffff&background=1a1a1a&point=dcdcdc" width="100%" />
+</p>
+
+---
+# 🌐 Professional Presence
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishalsen-connect&show_icons=true&theme=tokyonight"/>
+
+<a href="https://github.com/vishalsen-connect">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/vishalsen-connect/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:vishalsen.connect@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+</a>
+
 </p>
 
-## 💻 Most Used Languages
-
+<!-- ==================== FOOTER ==================== -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalsen-connect&layout=compact&theme=tokyonight"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0e0e0,100:f8f8f8,200:ffffff&height=150&width=1400&section=footer&text=✨%20Engineering%20Autonomous%20Cloud%20Platforms%20✨&fontSize=36&fontColor=1a1a1a&animation=waving&fontAlignY=55"/>
 </p>
 
----
--->
-
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats-fork.vercel.app/api?username=vishalsen-connect&show_icons=true&theme=tokyonight&border_color=DD2BC7&include_all_commits=true&bg_color=45,050608,1A1B27&show=prs_merged,reviews&line_height=24" 
-         width="48.125%" alt="My GitHub Stats were once here..." 
-  /></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats-fork.vercel.app/api?username=vishalsen-connect&show_icons=true&theme=buefy&border_color=DD2BC7" 
-         width="49%" alt="My GitHub Stats were once here..." 
-  /></a>
-  <!-- Github Streak -->
-  <a href="https://git.io/streak-stats#gh-dark-mode-only" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-streak-stats-fork.vercel.app?user=vishalsen-connect&theme=tokyonight&card_width=490&fire=EBEBEB&background=45%2C1A1B27%2C050608&stroke=4ACBEB&border=DD2BC7&mode=weekly" 
-         width="49%" alt="My GitHub Streak was once here..." 
-  /></a>
-    <a href="https://git.io/streak-stats#gh-light-mode-only" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-streak-stats-fork.vercel.app/?user=vishalsen-connect&theme=buefy&mode=weekly&border=DD2BC7" 
-         width="49%" alt="My GitHub Streak was once here..." 
-  /></a>
-
-  <a href="https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake.svg#gh-dark-mode-only" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake-dark.svg" 
-       alt="Check out my commit history!" 
-  /></a>
-  
-  <a href="https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake.svg#gh-light-mode-only" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/galexy727/galexy727/media/github-contribution-grid-snake.svg" 
-         alt="Check out my commit history!" 
-  /></a>
-</p>
-
----
-
-## 🌐 Connect With Me
-<!-- <p align="center"> -->
-  <a href="https://github.com/vishalsen-connect"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"></a>
-  <a href="https://www.linkedin.com/in/vishalsen-connect/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-  <a href="vishalsen.connect@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
-<!-- </p> -->
-
----
-
-<p align="center">
-⭐ Automating Today | Building Intelligent Infrastructure for Tomorrow ⭐
-</p>
