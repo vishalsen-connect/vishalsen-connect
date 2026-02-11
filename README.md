@@ -91,10 +91,13 @@
 ## 📈 Observability & Reliability Engineering
 
 <p>
-<a href="#"><img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"></a>
-<a href="#"><img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"></a>
-<a href="#"><img alt="ELK Stack" src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white"></a>
-<a href="#"><img alt="CloudWatch" src="https://img.shields.io/badge/CloudWatch-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS%20CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure%20Monitor-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nagios-000000?style=for-the-badge&logo=nagios&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AlertLogic-FF6A00?style=for-the-badge"/>
 </p>
 
 ---
@@ -130,22 +133,25 @@
 ## 🏛 Compliance & Governance Frameworks
 
 <p>
+<img src="https://img.shields.io/badge/AWS%20Config-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20Organizations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure%20Policy-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure%20Blueprints-0078D4?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/SOC_2_Compliance-0052CC?style=for-the-badge">
 <img src="https://img.shields.io/badge/HIPAA_Compliance-2E8B57?style=for-the-badge">
-<img src="https://img.shields.io/badge/ISO_27001-1F4E79?style=for-the-badge">
 <img src="https://img.shields.io/badge/GDPR_Compliance-003399?style=for-the-badge">
-<img src="https://img.shields.io/badge/PCI_DSS-6A1B9A?style=for-the-badge">
+<img src="https://img.shields.io/badge/Zero_Trust_Security-000000?style=for-the-badge">
 </p>
 
 ---
 
-## 🧾 Policy Enforcement & Governance Automation
+## 🔍 Compliance Automation & Auditing</h3>
 
 <p>
-<img src="https://img.shields.io/badge/AWS_Config-FF9900?style=for-the-badge&logo=amazon-aws">
-<img src="https://img.shields.io/badge/AWS_Control_Tower-FF9900?style=for-the-badge&logo=amazon-aws">
-<img src="https://img.shields.io/badge/Azure_Policy-0078D4?style=for-the-badge&logo=microsoft-azure">
-<img src="https://img.shields.io/badge/Azure_Blueprints-0078D4?style=for-the-badge&logo=microsoft-azure">
+  <img src="https://img.shields.io/badge/Terraform%20Sentinel-623CE4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cloud%20Custodian-2E8B57?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AWS%20Audit%20Manager-FF9900?style=for-the-badge"/>
 </p>
 
 ---
