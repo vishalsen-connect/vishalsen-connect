@@ -1,8 +1,6 @@
-
-
-
-
-
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00E5FF&height=200&section=header&text=💼%20Vishal%20Sen&fontSize=52&fontColor=00E5FF&animation=fadeIn&fontAlignY=36&desc=🚀%20DevOps%20|%20Platform%20Engineer%20|%20MLOps%20|%20AIOps%20|%20AI%20Infrastructure&descAlignY=65&descSize=20"/>
+</p>
 
 
 <!-- ===================================================== -->
@@ -10,13 +8,13 @@
 <!-- ===================================================== -->
 
 <!-- ==================== HEADER ==================== -->
-<p align="center">
+<!-- <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0e0e0,100:f8f8f8,200:ffffff&height=190&section=header&text=💼%20Vishal%20Sen&fontSize=50&fontColor=1a1a1a&animation=waving&fontAlignY=38"/>
-</p>
+</p> -->
 
 <!-- <h1 align="center">Hi 👋, I'm Vishal Sen</h1> -->
 
-<h3 align="center">🚀 Platform Engineer | ☁️ DevOps Architect | 🤖 AI-Driven Automation Specialist</h3>
+<!-- <h3 align="center">🚀 Platform Engineer | ☁️ DevOps Architect | 🤖 AI-Driven Automation Specialist</h3> -->
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+Autonomous+Cloud+Platforms;AI+Driven+DevOps+%26+AIOps+Engineering;Cloud+Security+%26+Zero+Trust+Architecture;Platform+Engineering+at+Scale;Infrastructure+as+Code+%26+GitOps+Expert" />
@@ -301,6 +299,6 @@ Features:
 
 <!-- ==================== FOOTER ==================== -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0e0e0,100:f8f8f8,200:ffffff&height=150&width=1400&section=footer&text=✨%20Engineering%20Autonomous%20Cloud%20Platforms%20✨&fontSize=36&fontColor=1a1a1a&animation=waving&fontAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:00E5FF&height=120&section=footer&text=✨%20Engineering%20Autonomous%20Cloud%20Platforms%20✨&fontSize=24&fontColor=E0F7FF&animation=fadeIn"/>
 </p>
 
