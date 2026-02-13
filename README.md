@@ -299,6 +299,6 @@ Features:
 
 <!-- ==================== FOOTER ==================== -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:00E5FF&height=120&section=footer&text=✨%20Engineering%20Autonomous%20Cloud%20Platforms%20✨&fontSize=24&fontColor=E0F7FF&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:00E5FF&height=50&section=footer&text=✨%20Engineering%20Autonomous%20Cloud%20Platforms%20✨&fontSize=24&fontColor=E0F7FF&animation=fadeIn"/>
 </p>
 
