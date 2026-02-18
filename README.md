@@ -1,266 +1,216 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00E5FF&height=200&section=header&text=💼%20Vishal%20Sen&fontSize=52&fontColor=00E5FF&animation=fadeIn&fontAlignY=36&desc=🚀%20DevOps%20|%20Platform%20Engineer%20|%20MLOps%20|%20AIOps%20|%20AI%20Infrastructure&descAlignY=65&descSize=20"/>
-</p>
-
-
-<!-- ===================================================== -->
-<!-- 🚀 PREMIUM HERO SECTION -->
-<!-- ===================================================== -->
-
-<!-- ==================== HEADER ==================== -->
-<!-- <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0e0e0,100:f8f8f8,200:ffffff&height=190&section=header&text=💼%20Vishal%20Sen&fontSize=50&fontColor=1a1a1a&animation=waving&fontAlignY=38"/>
-</p> -->
-
-<!-- <h1 align="center">Hi 👋, I'm Vishal Sen</h1> -->
-
-<!-- <h3 align="center">🚀 Platform Engineer | ☁️ DevOps Architect | 🤖 AI-Driven Automation Specialist</h3> -->
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+Autonomous+Cloud+Platforms;AI+Driven+DevOps+%26+AIOps+Engineering;Cloud+Security+%26+Zero+Trust+Architecture;Platform+Engineering+at+Scale;Infrastructure+as+Code+%26+GitOps+Expert" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffffff,100:e5e7eb&height=180&section=header&text=Vishal%20Sen&fontSize=48&fontColor=111827&animation=fadeIn&desc=DevOps%20•%20MLOps%20•%20AIOps%20Architect&descAlignY=68&descSize=20"/>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=vishalsen-connect&label=Profile+Views&color=00C2FF&style=for-the-badge" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=800&color=ffffff&center=true&vCenter=true&width=900&lines=Building+Autonomous+Cloud+Platforms;AI+Driven+DevOps+%26+AIOps+Engineering;Cloud+Security+%26+Zero+Trust+Architecture;Platform+Engineering+at+Scale;Infrastructure+as+Code+%26+GitOps+Expert" />
+</p>
+
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=vishalsen-connect&label=Profile%20Views&color=6366f1&style=for-the-badge"/>
 </p>
 
 ---
 
-# 🧭 Engineering Identity
+
+# 🏗 Engineering Identity
 
 ```yaml
-Role: Platform Engineer / DevOps Architect
-Experience: 7+ Years
-Focus:
-  - AI Driven Infrastructure
+Role: DevOps • MLOps • AIOps Architect
+Core Focus:
   - Multi Cloud Platform Engineering
-  - Kubernetes Platform Architecture
+  - Kubernetes & GitOps Architectures
+  - Infrastructure as Code at Scale
   - DevSecOps & Zero Trust
-  - AIOps & Autonomous Systems
+  - AI Driven Observability & Automation
 ```
 
 ---
 
 ## ☁️ Cloud & Platforms
 
-<p>
-<a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
-<a href="#"><img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"></a>
-<a href="#"><img alt="GCP" src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
-<a href="#"><img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white"></a>
-<a href="#"><img alt="VMware" src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white"></a>
-</p>
+![AWS](https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonaws)
+![Azure](https://img.shields.io/badge/Azure-111827?style=for-the-badge&logo=microsoftazure)
+![GCP](https://img.shields.io/badge/GCP-111827?style=for-the-badge&logo=googlecloud)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-111827?style=for-the-badge&logo=digitalocean)
+![VMware](https://img.shields.io/badge/VMware-111827?style=for-the-badge&logo=vmware)
 
 ---
 
-## 🐳 Containerization & Orchestration
+## 🐳 Container & Orchestration
 
-<p>
-<a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
-<a href="#"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"></a>
-<a href="#"><img alt="Helm" src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"></a>
-<a href="#"><img alt="AWS ECS" src="https://img.shields.io/badge/AWS_ECS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
-<a href="#"><img alt="AWS EKS" src="https://img.shields.io/badge/AWS_EKS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
-<a href="#"><img alt="Azure AKS" src="https://img.shields.io/badge/Azure_AKS-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"></a>
-<a href="#"><img alt="OpenShift" src="https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white"></a>
-</p>
-
+![Docker](https://img.shields.io/badge/Docker-1f2937?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-1f2937?style=for-the-badge&logo=kubernetes)
+![Helm](https://img.shields.io/badge/Helm-1f2937?style=for-the-badge&logo=helm)
+![EKS](https://img.shields.io/badge/AWS%20EKS-1f2937?style=for-the-badge&logo=amazonaws)
+![AKS](https://img.shields.io/badge/Azure%20AKS-1f2937?style=for-the-badge&logo=microsoftazure)
+![OpenShift](https://img.shields.io/badge/OpenShift-1f2937?style=for-the-badge&logo=redhatopenshift)
 
 ---
 
 ## 🛠 Infrastructure as Code & Automation
 
-<p>
-<a href="#"><img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"></a>
-<a href="#"><img alt="Terragrunt" src="https://img.shields.io/badge/Terragrunt-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"></a>
-<a href="#"><img alt="CloudFormation" src="https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
-<a href="#"><img alt="Ansible" src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"></a>
-</p>
+![Terraform](https://img.shields.io/badge/Terraform-111827?style=for-the-badge&logo=terraform)
+![Terragrunt](https://img.shields.io/badge/Terragrunt-111827?style=for-the-badge&logo=terraform)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-111827?style=for-the-badge&logo=amazonaws)
+![Ansible](https://img.shields.io/badge/Ansible-111827?style=for-the-badge&logo=ansible)
 
 ---
 
-## ⚙️ CI/CD, GitOps & Workflow Automation
+## ⚙️ CI/CD • GitOps • Automation
 
-<p>
-<a href="#"><img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"></a>
-<a href="#"><img alt="Azure DevOps" src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white"></a>
-<a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"></a>
-<a href="#"><img alt="ArgoCD" src="https://img.shields.io/badge/ArgoCD-F0602F?style=for-the-badge&logo=argo&logoColor=white"></a>
-<a href="#"><img alt="Argo Workflows" src="https://img.shields.io/badge/Argo_Workflows-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"></a>
-</p>
+![Jenkins](https://img.shields.io/badge/Jenkins-1f2937?style=for-the-badge&logo=jenkins)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-1f2937?style=for-the-badge&logo=githubactions)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-1f2937?style=for-the-badge&logo=azuredevops)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-1f2937?style=for-the-badge&logo=argo)
 
 ---
 
-## 📈 Observability & Reliability Engineering
+## 📈 Observability & Reliability
 
-<p>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge&logo=elastic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS%20CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure%20Monitor-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nagios-000000?style=for-the-badge&logo=nagios&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AlertLogic-FF6A00?style=for-the-badge"/>
-</p>
+![Prometheus](https://img.shields.io/badge/Prometheus-111827?style=for-the-badge&logo=prometheus)
+![Grafana](https://img.shields.io/badge/Grafana-111827?style=for-the-badge&logo=grafana)
+![ELK](https://img.shields.io/badge/ELK%20Stack-111827?style=for-the-badge&logo=elastic)
+![CloudWatch](https://img.shields.io/badge/AWS%20CloudWatch-111827?style=for-the-badge&logo=amazonaws)
+![Azure Monitor](https://img.shields.io/badge/Azure%20Monitor-111827?style=for-the-badge&logo=microsoftazure)
+![Nagios](https://img.shields.io/badge/Nagios-111827?style=for-the-badge&logo=nagios)
+![AlertLogic](https://img.shields.io/badge/AlertLogic-111827?style=for-the-badge)
 
 ---
 
 ## 🛡 Cloud Security & Threat Detection
 
-<p>
-<img src="https://img.shields.io/badge/AWS_GuardDuty-FF9900?style=for-the-badge&logo=amazon-aws">
-<img src="https://img.shields.io/badge/AWS_Security_Hub-FF9900?style=for-the-badge&logo=amazon-aws">
-<img src="https://img.shields.io/badge/AWS_Inspector-FF9900?style=for-the-badge&logo=amazon-aws">
-<img src="https://img.shields.io/badge/AWS_Macie-FF9900?style=for-the-badge&logo=amazon-aws">
-
-<img src="https://img.shields.io/badge/Azure_Defender-0078D4?style=for-the-badge&logo=microsoft-azure">
-<img src="https://img.shields.io/badge/Azure_Sentinel-0078D4?style=for-the-badge&logo=microsoft-azure">
-<img src="https://img.shields.io/badge/Azure_Security_Center-0078D4?style=for-the-badge&logo=microsoft-azure">
-</p>
+![AWS GuardDuty](https://img.shields.io/badge/AWS_GuardDuty-111827?style=for-the-badge&logo=amazonaws)
+![AWS Security Hub](https://img.shields.io/badge/AWS_Security_Hub-111827?style=for-the-badge&logo=amazonaws)
+![AWS Inspector](https://img.shields.io/badge/AWS_Inspector-111827?style=for-the-badge&logo=amazonaws)
+![AWS Macie](https://img.shields.io/badge/AWS_Macie-111827?style=for-the-badge&logo=amazonaws)
+![Azure Defender](https://img.shields.io/badge/Azure_Defender-111827?style=for-the-badge&logo=microsoftazure)
+![Azure Sentinel](https://img.shields.io/badge/Azure_Sentinel-111827?style=for-the-badge&logo=microsoftazure)
+![Azure Security Center](https://img.shields.io/badge/Azure_Security_Center-111827?style=for-the-badge&logo=microsoftazure)
 
 ---
 
 ## 🔑 Secret Management & Identity Security
 
-<p>
-<img src="https://img.shields.io/badge/AWS_Secrets_Manager-FF9900?style=for-the-badge&logo=amazon-aws">
-<img src="https://img.shields.io/badge/AWS_SSM_Parameter_Store-FF9900?style=for-the-badge&logo=amazon-aws">
-<img src="https://img.shields.io/badge/Azure_Key_Vault-0078D4?style=for-the-badge&logo=microsoft-azure">
-
-<img src="https://img.shields.io/badge/HashiCorp_Vault-000000?style=for-the-badge&logo=vault">
-<img src="https://img.shields.io/badge/CyberArk_PAM-FF0000?style=for-the-badge&logo=cyberark">
-</p>
+![AWS Secrets Manager](https://img.shields.io/badge/AWS_Secrets_Manager-111827?style=for-the-badge&logo=amazonaws)
+![AWS SSM Parameter Store](https://img.shields.io/badge/AWS_SSM_Parameter_Store-111827?style=for-the-badge&logo=amazonaws)
+![Azure Key Vault](https://img.shields.io/badge/Azure_Key_Vault-111827?style=for-the-badge&logo=microsoftazure)
+![HashiCorp Vault](https://img.shields.io/badge/HashiCorp_Vault-111827?style=for-the-badge&logo=vault)
+![CyberArk PAM](https://img.shields.io/badge/CyberArk_PAM-111827?style=for-the-badge&logo=cyberark)
 
 ---
 
 ## 🏛 Compliance & Governance Frameworks
 
-<p>
-<img src="https://img.shields.io/badge/AWS%20Config-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS%20Organizations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure%20Policy-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure%20Blueprints-0078D4?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/SOC_2_Compliance-0052CC?style=for-the-badge">
-<img src="https://img.shields.io/badge/HIPAA_Compliance-2E8B57?style=for-the-badge">
-<img src="https://img.shields.io/badge/GDPR_Compliance-003399?style=for-the-badge">
-<img src="https://img.shields.io/badge/Zero_Trust_Security-000000?style=for-the-badge">
-</p>
+![AWS Config](https://img.shields.io/badge/AWS%20Config-111827?style=for-the-badge&logo=amazonaws)
+![AWS Organizations](https://img.shields.io/badge/AWS%20Organizations-111827?style=for-the-badge&logo=amazonaws)
+![Azure Policy](https://img.shields.io/badge/Azure%20Policy-111827?style=for-the-badge&logo=microsoftazure)
+![Azure Blueprints](https://img.shields.io/badge/Azure%20Blueprints-111827?style=for-the-badge)
+![SOC 2 Compliance](https://img.shields.io/badge/SOC_2_Compliance-111827?style=for-the-badge)
+![HIPAA Compliance](https://img.shields.io/badge/HIPAA_Compliance-111827?style=for-the-badge)
+![GDPR Compliance](https://img.shields.io/badge/GDPR_Compliance-111827?style=for-the-badge)
+![Zero Trust Security](https://img.shields.io/badge/Zero_Trust_Security-111827?style=for-the-badge)
 
 ---
+## 🔍 Compliance Automation & Auditing
 
-## 🔍 Compliance Automation & Auditing</h3>
-
-<p>
-  <img src="https://img.shields.io/badge/Terraform%20Sentinel-623CE4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cloud%20Custodian-2E8B57?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AWS%20Audit%20Manager-FF9900?style=for-the-badge"/>
-</p>
+![Terraform Sentinel](https://img.shields.io/badge/Terraform%20Sentinel-111827?style=for-the-badge)
+![Cloud Custodian](https://img.shields.io/badge/Cloud%20Custodian-111827?style=for-the-badge)
+![AWS Audit Manager](https://img.shields.io/badge/AWS%20Audit%20Manager-111827?style=for-the-badge)
 
 ---
 
 ## 🧬 DevSecOps & Supply Chain Security
 
-<p>
-<img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk">
-<img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge">
-<img src="https://img.shields.io/badge/Aqua_Security-00B4F0?style=for-the-badge">
-<img src="https://img.shields.io/badge/Falco-00ADEF?style=for-the-badge">
-</p>
+![Snyk](https://img.shields.io/badge/Snyk-111827?style=for-the-badge&logo=snyk)
+![Trivy](https://img.shields.io/badge/Trivy-111827?style=for-the-badge)
+![Aqua Security](https://img.shields.io/badge/Aqua_Security-111827?style=for-the-badge)
+![Falco](https://img.shields.io/badge/Falco-111827?style=for-the-badge)
 
 ---
 
 ## 💻 Programming & Scripting
 
-<p>
-<a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apache-groovy&logoColor=white"></a>
-</p>
+![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-111827?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Groovy](https://img.shields.io/badge/Groovy-111827?style=for-the-badge&logo=apache-groovy&logoColor=white)
 
 ---
 
 ## 🔐 DevSecOps & Code Quality
-<p>
-<a href="#"><img alt="SonarQube" src="https://img.shields.io/badge/Checkmarx-54B848?style=for-the-badge&logo=sonarqube&logoColor=white"></a>
-<a href="#"><img alt="SonarQube" src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"></a>
-<a href="#"><img alt="Trivy" src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasecurity&logoColor=white"></a>
-<a href="#"><img alt="Snyk" src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white"></a>
-</p>
+
+![Checkmarx](https://img.shields.io/badge/Checkmarx-111827?style=for-the-badge&logo=sonarqube&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-111827?style=for-the-badge&logo=sonarqube&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-111827?style=for-the-badge&logo=aquasecurity&logoColor=white)
+![Snyk](https://img.shields.io/badge/Snyk-111827?style=for-the-badge&logo=snyk&logoColor=white)
+
+---
+## 🤖 MLOps & AI Platforms
+
+![MLflow](https://img.shields.io/badge/MLflow-111827?style=for-the-badge)
+![Kubeflow](https://img.shields.io/badge/Kubeflow-111827?style=for-the-badge)
+![KServe](https://img.shields.io/badge/KServe-111827?style=for-the-badge)
+![SageMaker](https://img.shields.io/badge/AWS%20SageMaker-111827?style=for-the-badge&logo=amazonaws)
+![Azure ML](https://img.shields.io/badge/Azure%20ML-111827?style=for-the-badge&logo=microsoftazure)
+![Vertex AI](https://img.shields.io/badge/Vertex%20AI-111827?style=for-the-badge&logo=googlecloud)
 
 ---
 
-# 🤖 AI + Autonomous DevOps Capabilities
-
-✔ Agentic CI/CD Pipelines  
-✔ AI Alert Correlation  
-✔ Predictive Scaling Platforms  
-✔ Intelligent Rollback Systems  
-✔ AI Infrastructure Observability  
-✔ LLM Deployment Infrastructure  
+# 🧠 AI-Driven DevOps & Platform Engineering
 
 ---
 
-# 🏗 Featured Engineering Platforms
+## 🚀 Core Capabilities
+
+- AI-driven CI/CD & GitOps pipelines  
+- Predictive incident detection & ML log analysis  
+- Intelligent rollbacks & self-healing Kubernetes  
+- LLM deployment infrastructure  
+- Infrastructure as Code & multi-cloud automation  
+- Security & compliance enforcement  
 
 ---
 
-## 🔥 Autonomous Kubernetes Platform
+## 🏗 Platform Engineering Blueprints
 
-👉 Enterprise Ready Internal Developer Platform
+### 🔹 Autonomous Kubernetes Platform
+- Multi-cluster GitOps orchestration  
+- Policy as Code & integrated security scanning  
+- Self-healing workloads  
+- AI observability & monitoring layer  
 
-Features:
+### 🔹 Multi-Cloud Landing Zone
+- Terraform modular architecture  
+- Governance guardrails & network baselines  
+- Security compliance & environment promotion pipelines  
 
-- Multi Cluster GitOps
-- Self Healing Infrastructure
-- Policy as Code
-- Automated Security Scanning
-- AI Observability Layer
-
----
-
-## 🌐 Multi Cloud Landing Zone Framework
-
-Features:
-
-- Terraform Modular Architecture
-- Governance Guardrails
-- Automated Networking Baseline
-- Security Compliance Framework
-- Environment Promotion Pipelines
+### 🔹 AI Observability Engine
+- ML-based anomaly detection & root cause automation  
+- Alert noise reduction & auto-remediation workflows  
 
 ---
 
-## 🤖 AI Observability Engine
+## 🔬 Current Engineering Research
 
-Features:
-
-- Predictive Incident Detection
-- ML Log Pattern Analysis
-- Automated Root Cause Analysis
-- Alert Noise Reduction
-- Self Healing Remediation
+- AI-native DevOps platforms  
+- LLMOps infrastructure patterns  
+- Self-healing Kubernetes systems  
+- Agentic monitoring & automated remediation  
+- Platform engineering golden paths  
 
 ---
 
-# 🚀 Current Engineering Research
+## 📌 Professional Focus
 
-- AI Native DevOps Platforms  
-- LLMOps Infrastructure Patterns  
-- Self Healing Kubernetes  
-- Agentic Monitoring Systems  
-- Platform Engineering Golden Paths  
+- Multi-cloud infrastructure engineering (AWS, Azure, GCP)  
+- Kubernetes architecture & container orchestration  
+- DevSecOps, zero trust security, and compliance  
+- MLOps pipelines & AI-driven automation  
+- Observability & reliability engineering  
 
----
 
-# 🧬 Technology Philosophy
-
-> Automate Everything  
-> Secure Everything  
-> Observe Everything  
-> Scale Everything  
-
----
+# 📊 GitHub Analytics
 
 <!-- ==================== GITHUB STATS ==================== -->
 <p align="center">
@@ -281,24 +231,15 @@ Features:
 ---
 # 🌐 Professional Presence
 
-<p align="center">
-
-<a href="https://github.com/vishalsen-connect">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/vishalsen-connect/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:vishalsen.connect@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-
+<p align="center">  
+<a href="https://github.com/vishalsen-connect"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/vishalsen-connect/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:vishalsen.connect@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-<!-- ==================== FOOTER ==================== -->
+---
+
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:00E5FF&height=50&section=footer&text=✨%20Engineering%20Autonomous%20Cloud%20Platforms%20✨&fontSize=24&fontColor=E0F7FF&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:e5e7eb,100:ffffff&height=40&section=footer&text=✨%20Engineering%20Autonomous%20Cloud%20Platforms%20✨&fontSize=18&fontColor=000000"/>
 </p>
 
